@@ -1,0 +1,4 @@
+div.operations_wrapper {
+  border-radius: 5px;
+  border: 1px solid var(--disabled-color);
+}
